@@ -1,0 +1,17 @@
+body {
+    background-color: rgba(95, 68, 117, 0.7);
+    z-index: 5;
+}
+
+.container {
+    max-width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid black;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+#description {
+    font-family: 'Raleway', sans-serif;
+}
