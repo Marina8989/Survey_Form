@@ -42,12 +42,39 @@ body {
 }
 
 .one {
-    margin-left: -25.5rem;
+    margin-left: -25.4rem;
+}
+
+.two {
+    margin-left: -6.3rem;
+}
+
+.three {
+    margin-left: -2.7rem;
+}
+
+.four {
+    margin-left: -27rem;
+}
+
+#maybe {
+    margin-left: -1rem;
+    margin-top: 1.3rem;
+    margin-bottom: 1.3rem;
+}
+
+#definitely {
+    margin-top: 1.2rem;
+}
+
+#notsure {
+    margin-bottom: 2rem;
 }
 
 #name,
 #email,
-#number {
+#number,
+#dropdown {
     margin-left: 6rem;
     width: 55%;
     height: 2rem;
